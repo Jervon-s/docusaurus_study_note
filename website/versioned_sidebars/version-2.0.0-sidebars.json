@@ -1,5 +1,8 @@
 {
   "version-2.0.0-docs": {
+    "教程": [
+      "version-2.0.0-docusaurus"
+    ],
     "Docusaurus--11": [
       "version-2.0.0-doc1"
     ],

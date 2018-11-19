@@ -3,7 +3,7 @@ id: doc1
 title: Latin-ish
 sidebar_label: Example Page
 ---
-2.0.0
+2.0.1
 sdsdsdsds test
 
 代码测试
