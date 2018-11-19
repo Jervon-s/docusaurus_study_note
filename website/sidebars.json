@@ -1,0 +1,23 @@
+{
+  "docs": {
+    "Docusaurus--11": ["doc1"],
+    "First Category": ["doc2"],
+    "Second Category": ["doc3"],
+    "Second Category--3333333": ["doc6"],
+    "My Example Category": [
+      "examples",
+      {
+        "type": "subcategory",
+        "label": "My Example Subcategory",
+        "ids": [
+          "mdoc1"
+          
+        ]
+      }
+    ]
+
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}

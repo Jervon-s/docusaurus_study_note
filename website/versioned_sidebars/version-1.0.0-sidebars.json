@@ -1,0 +1,26 @@
+{
+  "version-1.0.0-docs": {
+    "Docusaurus--11": [
+      "version-1.0.0-doc1"
+    ],
+    "First Category": [
+      "version-1.0.0-doc2"
+    ],
+    "Second Category": [
+      "version-1.0.0-doc3"
+    ],
+    "Second Category--3333333": [
+      "version-1.0.0-doc6"
+    ],
+    "My Example Category": [
+      "version-1.0.0-examples",
+      "version-1.0.0-[object Object]"
+    ]
+  },
+  "version-1.0.0-docs-other": {
+    "First Category": [
+      "version-1.0.0-doc4",
+      "version-1.0.0-doc5"
+    ]
+  }
+}
